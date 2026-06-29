@@ -36,10 +36,10 @@ A exclusão usada no projeto é lógica. Ou seja, a avaliação não é apagada 
 
 ## Divisão das funcionalidades
 
-* 1.1 Página de Produtos / Read — Bruno
-* 1.2 Criar Avaliação / Create — Levi
-* 1.3 Atualizar Avaliação / Update — João
-* 1.4 Excluir Avaliação / Delete — Victor
+* 1.1 Página de Produtos / Read 
+* 1.2 Criar Avaliação / Create 
+* 1.3 Atualizar Avaliação / Update 
+* 1.4 Excluir Avaliação / Delete 
 
 ## Estrutura do projeto
 
